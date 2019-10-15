@@ -8,7 +8,7 @@ import Pages.HomePage;
 import Pages.searchResultsPage;
 import Utilities.UtilityClass;
 
-public class TestcASE extends BaseClass{
+public class TestCases extends BaseClass{
 
 	/**
 	 * Scenario : Verify when text is searched,search Result page is displayed
